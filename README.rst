@@ -58,7 +58,7 @@ Installation
 
 * Or from GitHub::
 
-    pip install git+https://github.com/barszczmm/django-wpadmin.git#egg=django-wpadmin
+    pip install git+https://github.com/liaobaocheng/django-wpadmin.git
 
 
 
